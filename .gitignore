@@ -48,8 +48,6 @@ desktop.ini
 .pydevproject
 .settings/
 
-data/processed/
-data/interim/
 data/F2/
 data/F3/
 data/F4/
@@ -59,8 +57,6 @@ data/F5/
 *.pickle
 *.pkl
 *.parquet
-
-!data/processed/LIBRARY.csv
  
 # ----- Model artifacts -----
 models/
