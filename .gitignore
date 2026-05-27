@@ -91,4 +91,8 @@ docs/_build/
 site/
 build/
 dist/
+
+*.zip
+*.pdf
+manifest.md
  
