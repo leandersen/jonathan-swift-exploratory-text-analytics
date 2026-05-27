@@ -1,8 +1,6 @@
 # A Digital Critical Edition of Jonathan Swift
 
-An exploratory text analytics study of the complete works of Jonathan Swift (1667–1745), built for DS 5001 (Exploratory Text Analytics). The project asks whether unsupervised methods, given only vocabulary, reproduce the genre groupings traditionally assigned to Swift's writing — or reveal a different organization underneath them.
-
-**Author:** Lucas Andersen (pbp8nq@virginia.edu)
+An exploratory text analytics study of the complete works of Jonathan Swift (1667–1745), built for DS 5001 (Exploratory Text Analytics). The project asks whether unsupervised methods, given only vocabulary, reproduce the genre groupings traditionally assigned to Swift's writing or reveal a different organization underneath them.
 
 ## Motivation
 
@@ -48,4 +46,3 @@ Sentiment analysis exposed the limits of lexicon-based methods: *A Modest Propos
 | `07_f5_word2vec.ipynb` | Word2Vec embeddings |
 | `08_f5_sentiment_analysis.ipynb` | NRC and VADER sentiment |
 
-The full write-up is in `pbp8nqFinalProject.pdf`. Generated data tables are in `data/` (`data.zip`).
